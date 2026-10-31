@@ -1,0 +1,8 @@
+{
+  "name": "Yedium",
+  "description": "Yedium is an ultra-fast unblocked school hub with stealth tab cloaking, an instant emergency panic tab closer, and unblocked games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
